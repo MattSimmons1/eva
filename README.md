@@ -1,7 +1,11 @@
 
 # Neon Genesis Evangelion Power Supply Timer
 
-Looks best in iTerm2 with 20 rows and 80 columns.
+Command line tool for quickly adding tension to any situation. 
+
+![](./preview.png)
+
+Looks best in [iTerm2](https://iterm2.com/) with 20 rows and 80 columns.
 
 
 ### Build
